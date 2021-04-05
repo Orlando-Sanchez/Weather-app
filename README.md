@@ -4,6 +4,10 @@ This is a Weather application to learning React from the Udemy course "React JS 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live Demo
+
+https://weather-app-os.herokuapp.com/
+
 ## Available Scripts
 
 In the project directory, you can run:
